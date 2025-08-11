@@ -19,10 +19,3 @@ This general guide will get you started in understanding how to register your sa
 
 Getting Started
 ===============
-
-.. toctree::
-  :maxdepth: 1
-  
-  general-guide/registration 
- 
-  
