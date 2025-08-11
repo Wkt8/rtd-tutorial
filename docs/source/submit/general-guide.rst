@@ -31,10 +31,10 @@ Programmatic Submission
     general-guide/metadata-model
     general-guide/accession-numbers
 
-
 .. toctree::
     :caption: Submission Services
     :maxdepth: 1
+
     interactively
     programmatically
 
