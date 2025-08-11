@@ -24,17 +24,5 @@ Getting Started
   :maxdepth: 1
   
   general-guide/registration 
-  general-guide/metadata
-  general-guide/accessions
-
-
-Submission Services
-===================
-
-
-.. toctree::
-  :maxdepth: 1
-
-  general-guide/interactive
-  general-guide/programmatic
+ 
   
