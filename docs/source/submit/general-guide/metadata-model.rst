@@ -26,15 +26,7 @@ If you cannot provide a value for a mandatory field within a checklist, please u
 
 Sample relationships describe the relationship between two biosamples. The relationships can be submission, technical, or biological relationships. It links different samples together and supports relationship-based graph searches.
 The sample relationship is submitted to Biosamples by providing the source, type, and target. Below is an example of sample relationships in Biosamples.
-"relationships" : [ {
-    "source" : "SAMEA1111111",
-    "type" : "derived from",
-    "target" : "SAMEA2222222"
-    }, {
-    "source" : "SAMEG00000",
-    "type" : "has member",
-    "target" : "SAMEA1111111"
-} ]
+
 
 When the submitter provides relationship information in one sample, the reverse relationships in corresponding samples will be generated automatically. BioSamples doesn’t validate the type, direction, or the logic of the relationships.
 BioSamples currently supports four types of sample relationships
