@@ -1,11 +1,18 @@
+===============================================
 General Guide to BioSamples Sample Registration
 ===============================================
 
 
+Welcome to the guide for BioSamples Sample Registration
 
+
+
+
+Getting Started
+===============
 
 .. toctree::
-    :caption: ENA Data Submission
+    :caption: How to submit samples
     :maxdepth: 1
 
     general-guide/registration
