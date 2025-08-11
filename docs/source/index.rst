@@ -17,7 +17,8 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
-   usage
-   api
+    usage
+    api
+    general-guide/general-guide
