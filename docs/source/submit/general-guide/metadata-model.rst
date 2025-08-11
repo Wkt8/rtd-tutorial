@@ -40,6 +40,4 @@ Relationship types
 
 Sample A is derived from Sample B.
 
-
-
 For samples in the same project or study, it is recommended to provide the project or study information as an attribute, rather than providing has member relationships to avoid duplication.

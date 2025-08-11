@@ -1,3 +1,4 @@
-Programmatically
-=================
+How to register samples programmatically
+===================================
+
 
