@@ -19,9 +19,6 @@ The interactive file upload service is recommended, unless you are already famil
 This general guide will get you started in understanding how to register your samples to ENA, and how to keep track of the progress of your submission.
 
 
-Submission Services
-Interactive File Upload
-Programmatic Submission
 
 .. toctree::
     :caption: Getting Started
