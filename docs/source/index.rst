@@ -16,6 +16,6 @@ Contents
     api
     submit/general-guide
     submit/interactively
-    submit/programatically
+    submit/programmatically
 
 
