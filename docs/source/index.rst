@@ -1,24 +1,21 @@
-Welcome to Lumache's documentation!
+BioSamples Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+Welcome to the guidelines for submission and retrieval for BioSamples.
+Please use the links to find instructions specific to your needs.
+If you're completely new to BioSamples, you can see an introductory webinar at the bottom of the page.
 
 Contents
 --------
 
 .. toctree::
+    :caption: ENA Data Submission
     :maxdepth: 1
 
     usage
     api
-    general-guide/general-guide
+    submit/general-guide
+    submit/interactively
+    submit/programatically
+
+
